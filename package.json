@@ -1,0 +1,23 @@
+{
+  "name": "slidemilk",
+  "descrption": "Slide sub.",
+  "version": "0.0.1",
+  "author" : {
+    "name" : "sgtn"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines":{
+    "node" : ">=0.10.*"
+  },
+  "dependencies": {
+  },
+  "devDependencies" : {
+    "selenium-webdriver" : "*",
+    "argv" : "*",
+    "fs" : "*",
+    "socket.io-client" : "*"
+  }
+}
