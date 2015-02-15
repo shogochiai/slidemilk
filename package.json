@@ -17,7 +17,6 @@
   "devDependencies" : {
     "selenium-webdriver" : "*",
     "argv" : "*",
-    "fs" : "*",
     "socket.io-client" : "*"
   }
 }
