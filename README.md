@@ -1,4 +1,4 @@
-# en
+# SlideMilk
 
 ## Ready For Development
 `npm i`
