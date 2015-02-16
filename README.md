@@ -1,5 +1,10 @@
 # SlideMilk
 
+## demo
+
+- `node slidemilk.js https://slidebean.com/p/vVPujhYuLu/milkcocoaauth-`
+
+
 ## Ready For Development
 - `npm i`
 - `java -jar selenium-server/selenium-server-standalone-2.41.0.jar -Dwebdriver.chrome.driver=selenium-server/chromedriver &`
