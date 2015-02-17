@@ -6,9 +6,11 @@
 
 
 ## Ready For Development
+
 ### server
 - `npm i`
 - `java -jar selenium-server/selenium-server-standalone-2.41.0.jar -Dwebdriver.chrome.driver=selenium-server/chromedriver &`
+
 ### app
 - login [monaca](https://monaca.io/)
 - create blank app.
@@ -39,9 +41,11 @@ Android/iOS/Browser oriented, and haven't launch yet.
 # 日本語
 
 ## 開発準備
+
 ### サーバー
 - `npm i`
 - `java -jar selenium-server/selenium-server-standalone-2.41.0.jar -Dwebdriver.chrome.driver=selenium-server/chromedriver &`
+
 ### アプリ
 - [monaca](https://ja.monaca.io/)にログインする
 - 空のプロジェクトを作成する
