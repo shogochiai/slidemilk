@@ -1,5 +1,9 @@
 # SlideMilk
 
+![slidemilk](./slidemilk.png)
+日本語はページ下部
+
+
 ## demo
 
 - `node slidemilk.js https://slidebean.com/p/vVPujhYuLu/milkcocoaauth-`
@@ -39,6 +43,9 @@ Android/iOS/Browser oriented, and haven't launch yet.
 
 
 # 日本語
+
+##デモ
+- `node slidemilk.js https://slidebean.com/p/vVPujhYuLu/milkcocoaauth-`
 
 ## 開発準備
 
