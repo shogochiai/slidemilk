@@ -6,8 +6,14 @@
 
 
 ## Ready For Development
+### server
 - `npm i`
 - `java -jar selenium-server/selenium-server-standalone-2.41.0.jar -Dwebdriver.chrome.driver=selenium-server/chromedriver &`
+### app
+- login [monaca](https://monaca.io/)
+- create blank app.
+- put `monaca/www/index.html` to `www/index.html`
+- Use [monaca debugger(iOS)](https://itunes.apple.com/en/app/monaca/id550941371?mt=8) or [monaca debugger(Android)](https://play.google.com/store/apps/details?id=mobi.monaca.debugger&hl=en) app and test the interaction.
 
 ## How to Use
 `node slidemilk.js slideURL`
@@ -33,8 +39,14 @@ Android/iOS/Browser oriented, and haven't launch yet.
 # 日本語
 
 ## 開発準備
+### サーバー
 - `npm i`
 - `java -jar selenium-server/selenium-server-standalone-2.41.0.jar -Dwebdriver.chrome.driver=selenium-server/chromedriver &`
+### アプリ
+- [monaca](https://ja.monaca.io/)にログインする
+- 空のプロジェクトを作成する
+- `monaca/www/index.html`を`www/index.html`に設置する
+- [monaca debugger(iOS)](https://itunes.apple.com/jp/app/monaca/id550941371?mt=8)か[monaca debugger(Android)](https://play.google.com/store/apps/details?id=mobi.monaca.debugger&hl=ja)を使用して動作を確認する
 
 ## 使い方
 `node slidemilk.js slideURL`
