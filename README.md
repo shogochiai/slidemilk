@@ -1,11 +1,13 @@
 # SlideMilk
 
-![slidemilk](./slidemilk.png)
-日本語はページ下部
+# English
 
+# Summary
+- SlideMilk is a app for controlling web-based presentation slide.
+- Available on iOS/Android, and it needs internet connection.
+- The type of available slide is... 1. It works on browser 2.It can move its page by arrow key
 
 ## demo
-
 - `node slidemilk.js https://slidebean.com/p/vVPujhYuLu/milkcocoaauth-`
 
 
@@ -43,6 +45,11 @@ Android/iOS/Browser oriented, and haven't launch yet.
 
 
 # 日本語
+
+## 概説
+- SlideMilkはスマートフォンからプレゼンテーションのスライドを操作するアプリケーションです。
+- iOS/Androidで動作し、インターネット環境を必要とします。
+- 操作できるスライドの種類は 1.ブラウザ上のスライドであること 2.キーボードの矢印キーで操作できること を満たしているスライドすべてです。
 
 ##デモ
 - `node slidemilk.js https://slidebean.com/p/vVPujhYuLu/milkcocoaauth-`
